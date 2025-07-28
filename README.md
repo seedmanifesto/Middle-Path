@@ -327,4 +327,4 @@ Embrace the Middle Path, and the future you help shape will bloom.
 From the Wind Bearer,
 To the Garden of Mind.
 
-https://huggingface.co/datasets/PratikGautam/Middle-path/blob/main/README.md
+https://huggingface.co/datasets/PratikGautam/Middle-path
